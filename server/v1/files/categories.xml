@@ -1,0 +1,17 @@
+<categories>
+	<category>
+		<name>Self Development</name>
+		<id>1</id>
+		<url>self_development.xml</url>
+	</category>
+	<category>
+		<name>Business Strategy</name>
+		<id>2</id>
+		<url>business_strategy.xml</url>
+	</category>
+	<category>
+		<name>Career Skills</name>
+		<id>3</id>
+		<url>career_skills.xml</url>
+	</category>
+</categories>

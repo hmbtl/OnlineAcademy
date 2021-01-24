@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff"
+        android:scrollbars="none">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+
+
+
+            <!-- Courses on Sale view-->
+            <TextView
+                android:id="@+id/text_view_courses_on_sale"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/container_categories"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/transparent"
+                android:paddingBottom="5.0dip"
+                android:paddingLeft="15.0dip"
+                android:paddingTop="5.0dip"
+                android:text="Self Development"
+                android:textColor="#646464"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/button_see_all_courses_on_sale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/text_view_courses_on_sale"
+                android:layout_alignRight="@+id/text_view_courses_on_sale"
+                android:layout_alignTop="@+id/text_view_courses_on_sale"
+                android:layout_marginRight="10.0dip"
+                android:gravity="center"
+                android:text="@string/see_all"
+                android:textColor="#ff3581cb" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recycler_view_courses_on_sale"
+                android:layout_width="match_parent"
+                android:layout_height="240.0dip"
+                android:layout_below="@+id/text_view_courses_on_sale"
+                android:layout_marginBottom="5.0dip"
+                android:background="@android:color/transparent"
+                android:clipToPadding="false"
+                android:paddingLeft="5.0dip" />
+
+
+            <!-- New courses view-->
+            <TextView
+                android:id="@+id/text_view_new_courses"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/recycler_view_courses_on_sale"
+                android:background="@android:color/transparent"
+                android:paddingBottom="5.0dip"
+                android:paddingLeft="15.0dip"
+                android:paddingTop="5.0dip"
+                android:text="Business Strategy"
+                android:textColor="#646464"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/button_see_all_new_courses"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/text_view_new_courses"
+                android:layout_alignRight="@+id/text_view_new_courses"
+                android:layout_alignTop="@+id/text_view_new_courses"
+                android:layout_below="@+id/button_see_all_courses_on_sale"
+                android:layout_marginRight="10.0dip"
+                android:background="@android:color/transparent"
+                android:gravity="center"
+                android:text="@string/see_all"
+                android:textAllCaps="false"
+                android:textColor="#ff3581cb" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recycler_view_new_courses"
+                android:layout_width="match_parent"
+                android:layout_height="240.0dip"
+                android:layout_below="@+id/text_view_new_courses"
+                android:layout_marginBottom="5.0dip"
+                android:background="@android:color/transparent"
+                android:clipToPadding="false"
+                android:paddingLeft="5.0dip" />
+
+
+            <!--Top Courses on development-->
+            <TextView
+                android:id="@+id/text_view_top_courses_development"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/recycler_view_new_courses"
+                android:background="@android:color/transparent"
+                android:paddingBottom="5.0dip"
+                android:paddingLeft="15.0dip"
+                android:paddingTop="5.0dip"
+                android:text="Career Skills"
+                android:textColor="#646464"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/button_see_all_top_courses_development"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/text_view_top_courses_development"
+                android:layout_alignRight="@+id/text_view_top_courses_development"
+                android:layout_alignTop="@+id/text_view_top_courses_development"
+                android:layout_below="@+id/button_see_all_new_courses"
+                android:layout_marginRight="10.0dip"
+                android:background="@android:color/transparent"
+                android:gravity="center"
+                android:text="@string/see_all"
+                android:textAllCaps="false"
+                android:textColor="#ff3581cb" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recycler_view_top_courses_development"
+                android:layout_width="match_parent"
+                android:layout_height="240.0dip"
+                android:layout_below="@+id/text_view_top_courses_development"
+                android:layout_marginBottom="5.0dip"
+                android:background="@android:color/transparent"
+                android:clipToPadding="false"
+                android:paddingLeft="5.0dip" />
+
+
+            <!-- Top Courses on Education-->
+
+            <TextView
+                android:id="@+id/text_view_top_courses_education"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/recycler_view_top_courses_development"
+                android:background="@android:color/transparent"
+                android:paddingBottom="5.0dip"
+                android:paddingLeft="15.0dip"
+                android:paddingTop="5.0dip"
+                android:text="@string/top_courses_on_education"
+                android:textColor="#646464"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/button_see_all_top_courses_education"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/text_view_top_courses_education"
+                android:layout_alignRight="@+id/text_view_top_courses_education"
+                android:layout_alignTop="@+id/text_view_top_courses_education"
+                android:layout_below="@+id/button_see_all_top_courses_development"
+                android:layout_marginRight="10.0dip"
+                android:background="@android:color/transparent"
+                android:gravity="center"
+                android:text="@string/see_all"
+                android:textAllCaps="false"
+                android:textColor="#ff3581cb" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recycler_view_top_courses_education"
+                android:layout_width="match_parent"
+                android:layout_height="240.0dip"
+                android:layout_below="@+id/text_view_top_courses_education"
+                android:layout_marginBottom="5.0dip"
+                android:background="@android:color/transparent"
+                android:clipToPadding="false"
+                android:paddingLeft="5.0dip" />
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

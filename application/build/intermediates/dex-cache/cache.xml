@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.1.0_302570859b537b76ea3e206d6dcd7ec937e64b10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="afe5fb68be257ac284b143d94a583e7b3a273e3c">
+        <dex dex="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1953a505dd69d6ad91346743180cd859109ed5cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_a261f4f0f26b36f3e1270c41609f0c9244c8acf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/exploded-aar/com.ogaclejapan.smarttablayout/library/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e7074c93553938c2b122efcc8a791222f0b69d1c">
+        <dex dex="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.ogaclejapan.smarttablayout-library-1.3.0_7e903f840ff6efe148c1dc39226fc8b0bbc6ad03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/exploded-aar/com.github.bluejamesbond/textjustify-android/2.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="01d40085e187622594533159e2e21990edd60837">
+        <dex dex="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.bluejamesbond-textjustify-android-2.1.1_ce8ae4426768ff19da963b3e0f898609c024e7a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/exploded-aar/com.ToxicBakery.viewpager.transforms/view-pager-transforms/1.2.32/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="392c97a8270ccf3cc7fe6e0a5d97a5e97a61e65c">
+        <dex dex="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.ToxicBakery.viewpager.transforms-view-pager-transforms-1.2.32_13b7e1e54f17cf54abd63d4392f71f95a10745fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anar/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_0ab08c649e906f6a067ad7ff00db0b91b1ef11ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.0_21033ccede7cca9ddd99f8cad181848601b4679d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.0_08bafff6a138c7811dc5c493d7ea883ed51b0ac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a0fe156be82f35212e02d449a010521ace735621">
+        <dex dex="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f076d1ef9738591e697be7069e85106b214c75c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/exploded-aar/uk.co.chrisjenx/calligraphy/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e653e15e62e8a59ddd76cc7f827bf8bce38ae7bb">
+        <dex dex="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/transforms/dex/debug/folders/1000/10/uk.co.chrisjenx-calligraphy-2.1.0_f008eeb10668a2f12c92fe1b71deb907bc8c8fce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_28b99dfca97b46ccdbdca5922081f0c07ec6e9da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/exploded-aar/me.relex/circleindicator/1.1.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="3505b86b653bb367105403d204cc7752142d86c1">
+        <dex dex="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.relex-circleindicator-1.1.5_990173906eef31b930e862187518972e02fc5560/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anar/Development/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_5d465b8ba0a1dcf233bc8d9b6b6969f658189815/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_d5b2481063fbafdf8115298d29fa29d31588764f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="167a5721524b1d2810d1b41ed76eff1d53a0e82b">
+        <dex dex="/Users/anar/AndroidStudioProjects/OnlineAcademy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.1.0_39abfe21f5e1a69a129ed4a2b5ed16f242121b94/classes.dex" />
+    </item>
+
+</items>

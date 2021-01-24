@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">OnlineAcademy</string>
+    <string name="buy_this_course">BUY THIS COURSE</string>
+    <string name="forgot_your_password"><u>Did you forget your password?</u></string>
+    <string name="register">Register</string>
+    <string name="phone_number">phone number</string>
+    <string name="pincode">pincode</string>
+    <string name="sign_in">Sign in</string>
+    <string name="popular_courses">Popular Courses</string>
+    <string name="all_categories">All Categories</string>
+    <string name="categories">Categories</string>
+    <string name="courses_on_sale">Courses On Sale</string>
+    <string name="see_all">See all</string>
+    <string name="new_courses">New Courses</string>
+    <string name="featured">Featured</string>
+    <string name="students">students</string>
+    <string name="wrong_number_format">Wrong Number Format</string>
+    <string name="wrong_number_format_message">Please, check your phone number. It does not match valid phone number format.</string>
+    <string name="ok">OK</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="action_websearch">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="price">Price</string>
+    <string name="example_price">0.00 AZN</string>
+    <string name="dialog_edit_text_example">Example field</string>
+    <string name="dialog_message_top_example">This is an example message. To show instructions depending on actions</string>
+    <string name="dialog_message_example">This is an example message. Instead of it proper message will be shown on runtime</string>
+    <string name="dialog_button_left">Left Button</string>
+    <string name="dialog_button_right">Right Button</string>
+    <string name="dialog_title_example">Example title</string>
+    <string name="toast_example">This is an example toast message to notify actions.</string>
+    <string name="home">Home Page</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log Out</string>
+    <string name="my_profile">My Profile</string>
+    <string name="contents">Contents</string>
+    <string name="overview">OverView</string>
+    <string name="accept_terms">I agree with your <i><b> terms and conditions</b></i>. </string>
+    <string name="empty_phone_edit_text">Phone field empty</string>
+    <string name="empty_phone_edit_text_message">Please, enter your phone number in order to continue.</string>
+    <string name="top_courses_on_development">Top Courses on Development</string>
+    <string name="top_courses_on_education">Top Courses on Education</string>
+    <string name="download">Download this course</string>
+    <string name="dummy_course_about">Ancient influences have helped spawn variant interpretations of the nature of history which have evolved over the centuries and continue to change today. The modern study of history is wide-ranging, and includes the study of specific regions and the study of certain topical or thematical elements of historical investigation. Often history is taught as part of primary and secondary education, and the academic study of history is a major discipline in university studies.All events that are remembered and preserved in some authentic form constitute the historical record.[17] The task of historical discourse is to identify the sources which can most usefully contribute to the production of accurate accounts of past. Therefore, the constitution of the historians archive is a result of circumscribing a more general archive by invalidating the usage of certain texts and documents</string>
+    <string name="dummy_course_content">Ancient influences have helped spawn variant interpretations of the nature of history which have evolved over the centuries and continue to change today. The modern study of history is wide-ranging, and includes the study of specific regions and the study of certain topical or thematical elements of historical investigation. Often history is taught as part of primary and secondary education, and the academic study of history is a major discipline in university studies.All events that are remembered and preserved in some authentic form constitute the historical record.[17] The task of historical discourse is to identify the sources which can most usefully contribute to the production of accurate accounts of past. Therefore, the constitution of the historians archive is a result of circumscribing a more general archive by invalidating the usage of certain texts and documents</string>
+    <string name="dummy_course_title">CONTENT</string>
+
+    <string-array name="course_english">
+        <item>Nouns are naming words. They are words that give us the names for all the things that we come into contact with in our lives. Without them we would not be able to tell the difference between a chair and a couch or hockey and soccer!The more you know about nouns the clearer your communication will be.Nouns name things. As well as naming things we can see, such as people and places, nouns also name things we cant see, such as emotions. Abstract nouns name feelings, concepts and ideas. Abstract nouns describe qualities or states of being. Common nouns are used for general classes of people, places or things.Proper nouns are the names of people, places, organizations, days, months or titles. Collective nouns are used for groups of animals, people or things. Collective nouns are used when referring to a group of animals, people or things. When we say a herd of cattle the collective noun is herd. Using a collective noun can be another way of making a plural. Some examples of collective nouns are committee, class, fleet, flock and litter.</item>
+        <item>Verbs name actions. The verb in the example below is the word play. It expresses action.I play cricket every Saturday.Verbs can be changed like nouns and the form they take is determined by who is doing the action and when the action occurred. The following example shows how the form of a verb may change depending on who is doing the action.I play cricket every Saturday.You play cricket every Saturday.She plays cricket every Saturday.He plays cricket every Saturday.We play cricket every Saturday.They play cricket every Saturday.While some verbs show action, others show being or appearance. Examples of verbs showing being or appearance are: be, becomes, seem, were and appear.Examples:My brother is very fit.We were happy yesterday.You appear to be upset.They seem sad.Test your knowledge and try the following verb activity.</item>
+        <item>Adjectives are words that tell us something about the quality of nouns, or words that stand in for nouns: pronouns. They modify other words and tell us more about them.Examples of adjectives modifying nouns: nice boss,good friend, lovely dinner Examples of adjectives modifying pronouns:He was funny.She is charming.Adjectives can come in three forms. They not only tell us qualities of nouns, but they also allow us tocompare the qualities of nouns. These three forms are called positive, comparative and superlative. The positive form simply states the quality. The comparative form compares the quality of two things. The superlative form compares the quality of three or more things.Positive - The good surf was worth waiting for.Comparative - The surf yesterday was better than the surf today.Superlative - It is the best surf that I have seen.</item>
+    </string-array>
+
+    <string-array name="course_accounting">
+        <item>Chapter 1. Introduction to accounting There are three basic reports that you should be familiar with:the cash flow statement the Profit and Loss statement the balance sheet,The Profit and Loss statement The format of the Profit and Loss statement will be influenced by the nature of the firms activities. It should also respond to the needs of those who use it.It will be assumed that the business is a trading firm using the perpetual inventory approach.The Profit and Loss statement for a trading firm falls into two sections:calculation of gross profit (revenue less cost of sales)calculation of net profit (gross profit less other expenses)Classification of terms for the balance sheet. Classification of items into current and non-current sections helps assess liquidity. There are three criteria for separating current from non-current assets: Time - How long before the asset is expected to be converted into cash? Intention - Is it intended to convert the asset into cash in the near future?</item>
+        <item>Analyse:accounting information in assessing the performance of a business operated as a sole trader in such matters as profitability and liquidity;debtors using an ageing analysis;the information presented in accounting reports and budgets for a business.Balance: ledger accounts at the end of an accounting period;the disposal of asset account to determine the profit or loss on disposal of assets.Calculate:owners equity (capital) from a given list of assets and liabilities at a particular date;the amount of profit earned from a given set of information relating to a specific period of time.Check:the accuracy of ledger recordings;a bank statement against the cash records of a business.Classify:items into categories of assets, liabilities and owners equity, with revenue and expenses as elements of owners equity;items in Profit and Loss statements to provide information for assessing the performance of different functions or responsibilities.</item>
+        <item>Classification is the division of data into classes or categories to enable the more effective provision of information from financial reports. Classification occurs in both records and reports.Classification is designed to produce two outcomes: control, planning.When discussing the reasons for classification ultimately you must come back to planning and control.Records.The special journals are exclusive in the data they contain, for instance, the cash receipts journal only contains cash receipts. Within the journal the different sources of data may also be classified. The cash receipts may be classified according to the source of those receipts, whether they be from cash sales, debtors or other sources.Functional classification, Functional classification refers to the manner in which expenses are grouped in the Profit and Loss statement. The expenses are classified according to the function they perform and usually correspond to the cost centres of the firm.</item>
+    </string-array>
+    <string-array name="course_excel">
+        <item>present tables of values arranged in rows and columns that can be manipulated mathematically using both basic and complex arithmetic operations and functions.Microsoft Excel has the basic features of all spreadsheets, using a grid of cells arranged in numbered rows and letter-named columns to organize data manipulations like arithmetic operations. It has a battery of supplied functions to answer statistical, engineering and financial needs. In addition, it can display data as line graphs, histograms and charts, and with a very limited three-dimensional graphical display. It allows sectioning of data to view its dependencies on various factors for different perspectives (using pivot tables and the scenario manager). It has a programming aspect, Visual Basic for Applications, allowing the user to employ a wide variety of numerical methods, for example, for solving differential equations of mathematical physics, and then reporting the results back to the spreadsheet. It also has a variety of interactive features allowing user interfaces that can completely hide the spreadsheet from the user, so the spreadsheet presents itself as a so-called application, or decision support system (DSS), via a custom-designed user interface, for example, a stock analyzer, or in general, as a design tool that asks the user questions and provides answers and reports. In a more elaborate realization, an Excel application can automatically poll external databases and measuring instruments using an update schedule, analyze the results, make a Word report or PowerPoint slide show, and e-mail these presentations on a regular basis to a list of participants.</item>
+        <item>A formula is an expression which calculates the value of a cell. Functions are predefined formulas and are already available in Excel.For example, cell A3 below contains a formula which adds the value of cell A2 to the value of cell A1.To enter a formula, execute the following steps.1. Select a cell. 2. To let Excel know that you want to enter a formula, type an equal sign (=).3. For example, type the formula A1+A2. Tip: instead of typing A1 and A2, simply select cell A1 and cell A2.4. Change the value of cell A1 to 3. Excel automatically recalculates the value of cell A3. This is one of Excels most powerful features!</item>
+    </string-array>
+    <string-array name="course_geometry">
+        <item>Geometry is a subject in mathematics that focuses on the study of shapes, sizes, relative configurations, and spatial properties. Derived from the Greek word meaning "earth measurement," geometry is one of the oldest sciences. It was first formally organized by the Greek mathematician Euclid around 300 BC when he arranged 465 geometric propositions into 13 books, titled Elements. This, however, was not the first time geometry had been utilized. As a matter of fact, there exists evidence to believe that geometry dates all the way back to 3,000 BC in ancient Mesopotamia, Egypt!</item>
+        <item>Below are some of the key concepts and terms you will need to know in order to begin your study of geometry.Points.In geometry, we use points to specify exact locations. They are generally denoted by a number or letter. Because points specify a single, exact location, they are zero-dimensional. In other words, points have no length, width, or height. It may be helpful to think of a point as a miniscule "dot" on a piece of paper.</item>
+        <item>Parallel : Two lines that will never intersect are called parallel lines. In the case of line segments and rays, we must consider the lines that they lie in. In other words, we must consider the case that the line segments or rays were actually lines that extend infinitely in both directions. If the lines they lie on never intersect, they are called parallel. For instance, the statement " is parallel to ," is expressed mathematically as.If extended infinitely, the lines above will never meet.Transversal.A transversal is a type of line that intersects at least two other lines. The lines that a transversal crosses may or may not be parallel.</item>
+    </string-array>
+    <string-array name="course_hr">
+        <item>Human resource management (HRM, or simply HR) is a function in organizations designed to maximize employee performance in service of an employers strategic objectives. HR is primarily concerned with the management of people within organizations, focusing on policies and on systems. The HRM department members provide the knowledge, necessary tools, training, administrative services, coaching, legal and management advice, and talent management oversight that the rest of the organization needs for successful operation. HRM functions are also performed by line managers who are directly responsible for the engagement, contribution, and productivity of their reporting staff members. In a fully integrated talent management system, the managers play a significant role in and take ownership responsibility for the recruitment process. They are also responsible for the ongoing development of and retention of superior employees.</item>
+        <item>The employment cycle involves an organization determining its employment needs in line with its business strategy. Once employment needs are established, it’s time to hire staff. Once staff are employed, steps need to be taken to ensure employees are satisfied and productive. The final phase of the cycle is managing what happens when employees leave the organization. </item>
+        <item>The term employee relations refers to a companys efforts to manage relationships between employers and employees. An organization with a good employee relations program provides fair and consistent treatment to all employees so they will be committed to their jobs and loyal to the company. Such programs also aim to prevent and resolve problems arising from situations at work. Employee relations programs are typically part of a human resource strategy designed to ensure the most effective use of people to accomplish the organizations mission. Human resource strategies are deliberate plans companies use to help them gain and maintain a competitive edge in the marketplace. Employee relations programs focus on issues affecting employees, such as pay and benefits, supportingwork-life balance, and safe working conditions.</item>
+    </string-array>
+    <string-array name="course_website">
+
+        <item>Plan Web Pages:Planning is essential for creating a Web site, whether your site consists of one page or many.Decide what you want to accomplish with your Web pages. Decide on a main topic or theme for your Web pages.Gather Information.Collect the information you want to include on your Web pages, such as text, images etc.Organize information Divide the information you gathered into sections. Each section should be a seperate Web page. Home Page The home page is the main page in a Web site. The home page is usually the first page people see when they visit a website. Always include a brief summary of your Web pages on the home page.Your home page should include a table of contents that lists the information contained in your web site. You should include links that allow readers to quickly access information of interest. WYSIWYG Web Builder includes several tools to easily create a table of contents like the navigationbar, menu bar or the go menu.</item>
+        <item>Domain name is the address of website. A domain name is an identification string that defines a realm of administrative autonomy, authority or control within the Internet. Domain names are formed by the rules and procedures of the Domain Name System (DNS). Any name registered in the DNS is a domain name.Domain names are used in various networking contexts and application-specific naming and addressing purposes. In general, a domain name represents an Internet Protocol (IP) resource, such as a personal computer used to access the Internet, a server computer hosting a web site, or the web site itself or any other service communicated via the Internet.To get a domain name, you will have to pay an annual fee (average cost $10).Web-Hosting Servers. The web-hosting or server is much like the space that you rent out to have your business in. Its merely the space itself. It does not include furnishings like shelves for your products, just as the web-hosting account doesnt include a site for you to sell your products.</item>
+    </string-array>
+
+
+    <string-array name="subcat_business">
+        <item>Finance</item>
+        <item>Entrepreneurship</item>
+        <item>Communications</item>
+        <item>Management</item>
+        <item>Sales</item>
+        <item>Strategy</item>
+        <item>Operations</item>
+        <item>Project Management</item>
+        <item>Business Law</item>
+        <item>Date and Analytics</item>
+        <item>Home Business</item>
+        <item>Date and Analytics</item>
+        <item>Other</item>
+    </string-array>
+
+
+
+    <string-array name="subcat_art">
+        <item>Design</item>
+        <item>Fashion</item>
+        <item>Photography</item>
+        <item>Modelling</item>
+        <item>Color Management</item>
+        <item>Strategy</item>
+        <item>Operations</item>
+        <item>Project Management</item>
+        <item>Business Law</item>
+        <item>Date and Analytics</item>
+        <item>Home Business</item>
+        <item>Date and Analytics</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="subcat_computer">
+        <item>Operating Systems</item>
+        <item>Algorithms</item>
+        <item>Programming Languages</item>
+        <item>Java</item>
+        <item>Database Management</item>
+        <item>Mobile Programming</item>
+        <item>Game Theory</item>
+        <item>Artificial Intelligence</item>
+        <item>User Experience</item>
+        <item>Software Engineering</item>
+        <item>Agile Development</item>
+        <item>Cryptography</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="subcat_social_sciences">
+        <item>Finance</item>
+        <item>Entrepreneurship</item>
+        <item>Communications</item>
+        <item>Management</item>
+        <item>Sales</item>
+        <item>Strategy</item>
+        <item>Operations</item>
+        <item>Project Management</item>
+        <item>Business Law</item>
+        <item>Date and Analytics</item>
+        <item>Home Business</item>
+        <item>Date and Analytics</item>
+        <item>Other</item>
+
+    </string-array>
+
+    <string-array name="subcat_math">
+        <item>Geometry</item>
+        <item>Lines</item>
+        <item>Circles</item>
+        <item>Algebra</item>
+        <item>Logic And Modelling</item>
+        <item>Arithmetic Calculation</item>
+        <item>Calculus</item>
+        <item>Project Management</item>
+        <item>Triangles</item>
+        <item>Cilinder and Volume</item>
+        <item>Home Business</item>
+        <item>Date and Analytics</item>
+        <item>Other</item>
+
+    </string-array>
+
+</resources>

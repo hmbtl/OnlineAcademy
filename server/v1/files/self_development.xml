@@ -1,0 +1,542 @@
+<courses>
+<course>
+<name>Essential Nutrition</name>
+<image>http://api.bibro.ml/academy/images/course_img_essential_nutrition.jpg</image>
+<id>1</id>
+	<count>4</count>
+	<chapter>
+		<name>You and Your Body</name>
+		<desc>When you eat well you become healthier and fitter. Good nutrition helps balance your hormones and gives you more energy. You sleep better, think better, feel happier and are more productive than ever before. This course aims to help you understand everything you need to know about eating well.</desc>
+		<count>7</count>	
+			<slide>
+			<name>What What does your body do to let you know something isn&#39;t right?</name>
+			<body>Whatever Most people are completely unaware of how much better they&#39;d feel if they changed a few simple things in their diet. It can improve your energy levels, mood, fitness and the way you think and feel. Your body almost always gives you cues and clues. It is up to you whether you decide to ignore them.</body>
+			</slide>
+			<slide>
+			<name>What affects how you age the most?</name>
+			<body>Genetics only affect your ageing by 20%. The rest is determined by the environment and our lifestyle.
+Once you reach your twenties or thirties, you will begin to age, and without proper nutrition you will feel tired and lethargic. By the time you are 50, your lifestyle will indicate how you age.</body>
+			</slide>
+			<slide>
+			<name>Where on your body does excess fat really put your health at risk?</name>
+			<body>Having excess fat to lose is harmful for your body, but having weight to lose mainly arround the waist puts you at a very high risk of developing health conditions. The Heart Foundation recommends that men's waists should measure less than 94 cm (37 inches) and for women it's under 80 cm (31.5 inches).</body>
+			</slide>
+			<slide>
+			<name>How many people will develop diabetes in their life?</name>
+			<body>1 in 3 people develop Type 2 Diabetes. Poor eating habits, high stress levels and inactivity are some of its causes. Some people predisposed to it, but the trigger is always environment and lifestyle habits. People who eat greens reduce their risk of developing diabetes by 14%.</body>
+			</slide>
+			<slide>
+			<name>What kind of food is detrimental to your heart health?</name>
+			<body>Processed food is one of the worst culprits of heart disease whereas egg yolks are natural and will not increase your cholesterol levels. Also, peanuts are loaded with good fats, which are heart healthy. Try to eat as much fresh fruit and vegetables as possible and avoid processed foods.</body>
+			</slide>
+			<slide>
+			<name>What is the healthy range for total cholesterol in your blood?</name>
+			<body>The ideal level of total cholesterol is 180 mg&#x2044;dl. Above 200 mg&#x2044;dl puts your heart and your body in a dangerous zone. A healthy fasting sufar level is an important health parameter. If it is beyond 120 mg&#x2044;dl, you are considered a diabetic. If it is above mg&#x2044;dl, it means you could be pre&#x2013; diabetic.</body>
+			</slide>
+			<slide>
+			<name>What is the scientific name for good cholesterol?</name>
+			<body>HDL is a good cholesterol. One great way of increasing this is by exercising regularly and eating a handful of unsalted nuts daily. LDL is bad cholesterol, and high levels can be very harmful to your heart health. Triglyceride levels should always be under control for a better functioning heart.</body>
+			</slide>
+	</chapter>
+	<chapter>
+		<name>Food&#58; Past, Present and Future</name>
+		<desc>When you eat well you become healthier and fitter. Good nutrition helps balance your hormones and gives you more energy. You sleep better, think better, feel happier and are more productive than ever before. This course aims to help you understand everything you need to know about eating well.</desc>
+		<count>6</count>
+			<slide>
+			<name>What has evolved over thousands of years?</name>
+			<body>In the span of 10000 years, people&#39;s diets and lifestyles have changed beyond all recognition. Even 200 years ago, humans consumed a very different diet and led a more active lifestyle.
+Plain food diets meant many of the problems of today like diabetes, obesity and heart disease were uncommon.</body>
+			</slide>
+			<slide>
+			<name>Who enjoyed a simple diet, rich in fibre and low in fat?</name>
+			<body>Ten thousand years ago, primitive man&#39;s life was incredibly active. He spent his days roaming large areas searching for nuts, berries and animals he could hunt.
+This way of living provided a simple diet of diverse proteins and carbohydrates with a positive low glycemic index and loads of fibre.</body>
+			</slide>
+			<slide>
+			<name>What food source fed the city people of the Middle Ages?</name>
+			<body>During the Middle Ages (from the mid&#x2013; 10th century onwards), the number of small farms had reduced as people flocked to the growing cities.
+In a bid to keep urban populations fed, farms supplied the cities with food they knew would be the easiest to store and transport; grains became a staple.</body>
+			</slide>
+			<slide>
+			<name>What How did people&#39;s health suffer during the industrial revolution?</name>
+			<body>As cities kept expanding throughout the 19th century, industrial cereal was needed to feed the growing masses.
+However, growing huge amounts of cereals reduced the amount of land available for rearing animals and growing vegetables and fruits. As a result, people became deficient in protein.</body>
+			</slide>
+			<slide>
+			<name>What is the majority of today&#39;s food produced?</name>
+			<body>The food of our modern times is characterized entirely by mechanization. Today, farms are vast and farm laborers have been replaced by machines.
+Fresh products are often expensive, so the majority of the population eat mass&#x2013; produced, heavily processed foods packed with chemicals and preservatives.</body>
+			</slide>
+			<slide>
+			<name>What will dictate our future diet as the world&#39;s population grows?</name>
+			<body>It is concerning that in the future, science will dictate our diet.
+Genetically modified crops are designed to resist pests and grow to large sizes, &#34;meat&#34;&#x2013; type proteins are grown in labs while animals are fed medications to produce more milk and develop more muscle.</body>
+			</slide>			
+	</chapter>
+	<chapter>
+		<name>Carbohydrates</name>
+		<desc>When you eat well you become healthier and fitter. Good nutrition helps balance your hormones and gives you more energy. You sleep better, think better, feel happier and are more productive than ever before. This course aims to help you understand everything you need to know about eating well.</desc>
+		<count>10</count>
+			<slide>
+			<name>What happens if you consume more carbs than your body needs?</name>
+			<body>If you consume more carbohydrates than your body needs, it gets stored as glycogen in your liver and muscles. The excess gets stored as fat.
+How healthy different carbs are for your body depends on the different nutrients each one provides, plus the effect it has on your blood glucose levels.</body>
+			</slide>
+			<slide>
+			<name>What How many macro&#x2013; nutrients is our diet made up of?</name>
+			<body>Your diet is composed of three major macro&#x2013; nutrients &#x2013;  protein, fat and carbohydrates.
+The most basic unit of carbohydrate is simple sugar or glucose. When you eat any kind of carbohydrates, it enters your blood stream and is then broken down into glucose for instant digestion and absorption.</body>
+			</slide>
+			<slide>
+			<name>What percentage of your diet should be made up of carbs?</name>
+			<body>Carbohydrates should ideally make up around 55% of your daily diet. Your body&#39;s preferred source of energy, carbohydrates are released quickly in the form of glucose.
+The brain generally needs about 150 grams of carbohydrates to function normally. However, this fluctuates from person to person.</body>
+			</slide>
+			<slide>
+			<name>What makes a carbohydrate complex?</name>
+			<body>The complex chemical structure of carbohydrates slows down the release of glucose in our bloodstream.
+Complex carbohydrates are starches found in cereal grains, seeds and roots. Composed of complex structures, unlike simple carbohydrates, they don&#39;t cause a sudden spike in blood glucose levels.</body>
+			</slide>
+			<slide>
+			<name>What are slow&#x2013; digesting carbs full of?</name>
+			<body>The high fibre and nutrient content in slow digesting carbohydrates fill you up quickly and also reduce your appetite naturally.
+Wild rice, quinoa, rye bread, amaranth, sweet potatoes, beans and lentils, vegetables, whole fruit and avocados are all good, slow&#x2013; digesting carbohydrates.</body>
+			</slide>
+			<slide>
+			<name>What type of food reduces hunger cravings?</name>
+			<body>Rough and indigestible, fibre is an essential part of your diet. It helps slow down the absorption of glucose into the bloodstream and reduces the likelihood of spiking blood sugar levels.
+Some great, natural sources of fibre include garden vegetables, pulses and wholegrain and whole meal breads.</body>
+			</slide>
+			<slide>
+			<name>What What type of food is the leading cause of obesity and diabetes?</name>
+			<body>White and brown sugar, fresh and packaged fruit juices, honey, high fructose corn syrup, sweet processed foods, white bread and white pasta are all fast&#x2013; digesting carbs.
+Fast&#x2013; digesting carbs are the leading cause of diabetes, high blood pressure, PCOS and increased body fat percentage.</body>
+			</slide>
+			<slide>
+			<name>How many grams of carbohydrates do you need per day</name>
+			<body>How much you need depends on your activity levels, your fitness goals and your health concerns
+150 grams per day could be too much or too little for some people. It depends a lot on your current lifestyle. However, 250 grams is generally seen as the minimum amount people need in a regular diet.</body>
+			</slide>
+			<slide>
+			<name>What kind of sugar do sweets and cakes contain?</name>
+			<body>Simple carbohydrates are made from only one or two sugar units. These simple sugars include&#58; fructose, galactose, maltose and lactose. They&#39;re found in fruits, vegetables and milk.
+Refined sugars like sucrose are found in table sugar and processed food products like sweets, chocolates and cakes.</body>
+			</slide>
+			<slide>
+			<name>Why does your body become &#34;insulin resistant&#34;?</name>
+			<body>Fast&#x2013; digesting carbs arrive in the bloodstream quickly, causing a sudden glucose spike. The body respond by secreting insulin through the pancreas to allow glucose to be transported directly to the cells.
+More glucose means more insulin. Over time, your body can become &#34;insulin resistant&#34;.</body>
+			</slide>
+	</chapter>
+	<chapter>
+		<name>Proteins</name>
+		<desc>When you eat well you become healthier and fitter. Good nutrition helps balance your hormones and gives you more energy. You sleep better, think better, feel happier and are more productive than ever before. This course aims to help you understand everything you need to know about eating well.</desc>
+		<count>8</count>
+			<slide>
+			<name>What is the major function of protein in your body?</name>
+			<body>Growing and repairing your body&#39;s muscles is one of the most important functions of protein. Unbelievably, every organ in your body is constantly renewing and repairing itself. For this process to work, you need a continual supply of good quality protein.
+This is why athletes need a lot of protein.</body>
+			</slide>
+			<slide>
+			<name>What What are proteins made of?</name>
+			<body>Protein is made up of numerous building blocks called amino acids. Your body requires two types of amino acids&#58;
+Essential amino acids&#58; your body cannot make these itself and requires adequate amounts in your daily diet&#59;
+Non&#x2013; essential amino acids&#58; these amino acids can be made by the body itself.</body>
+			</slide>
+			<slide>
+			<name>What are the 2 types of proteins in food?</name>
+			<body>Based on the type of amino acids, proteins are divided into complete and incomplete proteins. Incomplete proteins lack one or more essential amino acids, and are found in legumes and pulses, plus a small amount are found in vegetables and cereals.
+1 gram of protein provides approximately 4 calories.</body>
+			</slide>
+			<slide>
+			<name>Why do we need to ensure a daily supply of protein?</name>
+			<body>Protein is part of every cell of your body. Your skin, hair and nails are all composed of the protein keratin. This is why you need a constant protein supply.
+Your body stores excess fat and glucose, but it can&#39;t store protein. For this reason, making sure get sufficient protein is essential.</body>
+			</slide>
+			<slide>
+			<name>Where do complete proteins come from?</name>
+			<body>Complete proteins are obtained from animal products. They contain all the essential amino acids to promote growth, repair and metabolic healing. They include&#58; eggs, red meat, fish, chicken, beef, yoghurt, milk and cheese.</body>
+			</slide>
+			<slide>
+			<name>What time in your life will you need the most protein?</name>
+			<body>Middle&#x2013; aged and older people actually need more protein than young people. This is further compounded by a 50% drop in hydrochloric acid &#x2013;  what breaks down protein in our stomachs.
+Dietary protein is essential for every metabolic process in your body; 10&#x2013; 35% of your daily diet should be protein.</body>
+			</slide>
+			<slide>
+			<name>How can too much protein be bad?</name>
+			<body>Too much protein can cause kidney and liver problems, plus the associated saturated fat can enhance the risk of heart disease.
+Clean and unprocessed sources of protein are always best. Fresh tofu, plain soy milk and steamed edamame beans are great 2&#x2013; 3 times a week. Tempeh is best of the lot.</body>
+			</slide>
+			<slide>
+			<name>Why do you need more protein after an intense workout?</name>
+			<body>You lose protein from your muscles while you work out. Post&#x2013; workout protein will help muscles recover, which will give you higher energy levels. Having a high&#x2013; protein meal after working out will help replenish muscles.
+Also, proteins require a longer time for digestion; you feel fuller for longer.</body>
+			</slide>	
+			<slide>
+			<name>How much protein does a moderately active person need?</name>
+			<body>Adequate amounts of dietary protein helps you build muscle mass, which improves the fat&#x2013; to&#x2013; muscle&#x2013; ratio in your body, making you feel fitter, stronger and hormonally healthy.
+If you&#39;re active, you need to consume 1.2&#x2013; 1.5 g per kg of body weight. The more athletic you are, the more you will need.</body>
+			</slide>			
+	</chapter>	
+</course>
+<course>
+<name>Self&#x2013; confidence</name>
+<id>2</id>
+<image>http://api.bibro.ml/academy/images/course_img_self_confidience.jpg</image>
+	<count>4</count>
+	<chapter>
+		<name>Defining Confidence</name>
+		<desc>People go through different levels of confidence &#x2013;  it is perfectly natural. But there are techniques to help gain a stronger sense of self and build confidence. In this course, you&#39;ll learn how to remove insecurities that will help you excel at work, social situations and personal relationships.</desc>
+		<count>6</count>	
+			<slide>
+			<name>What is the main benefit of confidence?</name>
+			<body>When you are confident, you are willing to try new things without the fair of failure. A confident person accepts that they have weaknesses and is eager to learn from them. People like the company of confident person, they are interested in their opinions and enjoy spending time with them.
+Benefits
+A confident person knows that they don&#39;t need to win every time &#x2013;  whether it be a sports activity, a debate with colleagues or in a romantic way  but they know they&#39;ll gain nothing if they don&#39;t try.
+More benefits of confidence&#58;
+&#x2013;  You&#39;ll perform better in all aspects of your life;
+&#x2013;  You&#39;ll be happier;
+&#x2013;  You&#39;ll improve your social skills;
+&#x2013;  You&#39;ll be healthier.</body>
+			</slide>
+			<slide>
+			<name>What is confidence?</name>
+			<body>Confidence is having faith in your chosen course of action, no matter how tough the situation seems. It is trusting yourself and believing that your choices will work out well because you have made those decisions yourself.</body>
+			</slide>
+			<slide>
+			<name>What effect does confidence have on others?</name>
+			<body>When someone is confident, they have the self&#x2013; assurance to speak up. As a result, other people will often turn to this person for their opinion, their advice and their view on certain things. This is because people are naturally drawn to those who we believe are more confident than them.
+Confidence traits
+Other qualities of confident people&#58;
+&#x2013;  They consider finding out what is right more important than actually being right;
+&#x2013;  They are great listeners;
+&#x2013;  They aren&#39;t afraid to ask for help;
+&#x2013;  They aren&#39;t afraid to look foolish or own up to their mistakes;
+&#x2013;  They don&#39;t need glory.</body>
+			</slide>
+			<slide>
+			<name>How does someone with confidence behave?</name>
+			<body>People often confuse confidence with arrogance. However, they are very different. Being a confident person does not mean that you are rude, insensitive or overbearing. It takes confidence to admit that you don&#39;t know the solution to a problem, whereas an arrogant person is unlike to admit this.
+Signs of arrogance&#58;
+&#x2013;  Dropping names unnecessarily;
+&#x2013;  Consistently interrupting conversations;
+&#x2013;  Putting others down;
+&#x2013;  Blaming others;
+&#x2013;  Consistently being late.</body>
+			</slide>
+			<slide>
+			<name>happens when a person has low levels of confidence?</name>
+			<body>When you have low levels of confidence, you miss opportunities. These opportunities can take place at work or even in friendships and relationships. Greater self&#x2013; belief leads people to take risks and try new things, because of their attitude they view every new experience as a positive thing.</body>
+			</slide>
+			<slide>
+			<name>What is low self&#x2013; esteem?</name>
+			<body>Imagine you were asked to give a talk about your job at a local school. If you had low self&#x2013; confidence, you&#39;d be worried about giving the actual presentation, while if you had low self&#x2013; esteem, you&#39;d be wondering why the school asked you to speak in the first place.
+To do
+Make a list&#58; Think about your attributes and personality. Add your strengths, your successes and your achievements in your personal life, education, hobbies and career. Don&#39;t forget to include your friends&#39;, colleagues&#39; and family&#39;s positive opinions and feedback, too. Keep this list somewhere safe and remember to read it regularly for an instant confidence boost, especially when you&#39;re feeling particularly down or stressed.</body>
+			</slide>			
+	</chapter>
+	<chapter>
+		<name>New confidence</name>
+		<desc>People go through different levels of confidence &#x2013;  it&#39;s perfectly natural. But there are techniques to help gain a stronger sense of self and build confidence. In this course, you&#39;ll learn how to remove insecurities that will help you excel at work, social situations and personal relationships.</desc>
+		<count>107</count>
+			<slide>
+			<name>area of your life does low self&#x2013; confidence affect most?</name>
+			<body>People often have a bad sense of their own personal confidence level. You may think you have loads of confidence, yet can&#39;t quite work out why you&#39;re overlooked in all areas of life&#58; work, social situations and relationships. This is likely because you are not as confident as you think you are.
+Did you know?
+Oprah Winfrey was fired from her first TV reporting job because she was deemed &#34;not suitable for television&#34;. Clint Eastwood was fired from Universal Studios in 1954 because a film executive thought is Adam&#39;s apple was too big. Stephen King&#39;s first novel, &#34;Carrie&#34;, was rejected by his publisher 30 times.</body>
+			</slide>
+			<slide>
+			<name>Why is there hope for people with self&#x2013; doubt?</name>
+			<body>Confidence isn&#39;t something you&#39;re born with but something you develop. Every day, you are faced with challenges that can damage your sense of self&#x2013; worth.
+However, you are also faced with opportunities to further develop your confidence and eliminate self&#x2013; doubt. It is not easy, but it is worth it.</body>
+			</slide>
+			<slide>
+			<name>What can people who are confident at work do?</name>
+			<body>Confident people are comfortable in most situations. This is because they are assured that they are capable, fair&#x2013; minded and willing to listen. If a confident person wishes to speak up in an awkward situation they do it with ease because they are comfortable with their abilities.</body>
+			</slide>
+			<slide>
+			<name>What is a trait of all confident people?</name>
+			<body>Confident people are positive. They see the good in others, look for the silver lining in the cloud and know how to turn something negative into a positive.
+It is their confidence in themselves that makes things seem achievable when others may feel overwhelmed or stressed.</body>
+			</slide>
+			<slide>
+			<name>How can you make a goal more definite?</name>
+			<body>Make a list of goals that you&#39;d like to achieve, with a realistic timeline of when you&#39;d like to achieve them. You will be surprised at how a simple list can make you feel in control. The act of writing a goal make it feel official and can spur you on to achieve it.
+Goal setting tips&#58;
+&#x2013;  Make sure you have defined the goal clearly;
+&#x2013;  Make sure your goals don&#39;t conflict with other goals or your lifestyle;
+&#x2013;  Break big goals into small, manageable chunks;
+&#x2013;  Make a list of goals you&#39;ve achieved in the last 12 months.</body>
+			</slide>
+			<slide>
+			<name>What should you do when you achieve a  goal?</name>
+			<body>When you achieve a goal, acknowledge your accomplishment! It may be as simple as tweeting about it or placing a status update on Facebook. It is a mental reward to yourself and also gives others the opportunity to congratulate you. Other people&#39;s admiration is always a confidence boost.
+Try this&#58;
+When someone congratulates you, your default reaction may be to say, &#34;Oh, it was nothing&#34;, But you should accept the praise! It is important in developing your confidence.</body>
+			</slide>
+			<slide>
+			<name>What positive thing comes from failure?</name>
+			<body>If you fall short the first time, figure out why this is. Perhaps you need more resources or more time to develop your skills. The bottom line is that you need to identify the reasons for your failure and be excited to do better next time.</body>
+			</slide>
+			<slide>
+			<name>What would a confident person do if someone criticized them?</name>
+			<body>Always remember that confidence is different from arrogance. An arrogant person wouldn&#39;t listen to advice or accept a critique. A confident person examines the advice, decides if they would like to follow it and moves on.
+Handling criticism&#58;
+&#x2013;  Don&#39;t interrupt &#x2013;  let the person finish what they want to say;
+&#x2013;  Really listen. Listen and repeat the advice back to the person to make sure you understand what is being said;
+&#x2013;  Thank them for the constructive criticism;
+&#x2013;  Ask questions and request examples;
+&#x2013;  Decide if you think the advice is valid and if you wish to follow it.</body>
+			</slide>	
+			<slide>
+			<name>What is a confident person&#39;s attitude to others?</name>
+			<body>When you help someone who&#39;s struggling with something that you are good at, their positive feedback quickly builds your confidence. If you know how to change a flat tyre and you see someone struggling, offer to help. Their gratitude will automatically validate you, and your confidence will increase.
+Tip
+Don&#39;t wait for an opportunity to present itself. If you know that you are good at something offer to make your friend&#39;s birthday cake. They&#39;ll be grateful and the compliments you receive will be great for your confidence.</body>
+			</slide>	
+			<slide>
+			<name>What is an effective way to boost your confidence?</name>
+			<body>Positive affirmations are an amazing way to boost your confidence and improve your outlook on life. First, you need to decide which areas of your life you would like to improve. Then, plan what you want to reinforce.</body>
+			</slide>			
+	</chapter>
+	<chapter>
+		<name>All about you</name>
+		<desc>People go through different levels of confidence &#x2013;  it&#39;s perfectly natural. But there are techniques to help gain a stronger sense of self and build confidence. In this course, you&#39;ll learn how to remove insecurities that will help you excel at work, social situations and personal relationships.</desc>
+		<count>7</count>
+			<slide>
+			<name>What is the first, crucial step to developing self&#x2013; worth?</name>
+			<body>Value yourself and recognize your self&#x2013; worth. This in turn will help you build your own confidence by making you feel worthy and comfortable in your own skin. It will aid you in situations in which you may ordinarily feel intimidated or overshadowed by more confident people.</body>
+			</slide>
+			<slide>
+			<name>Why do people often give up the creative pursuit they love?</name>
+			<body>We are not born with self&#x2013; doubt &#x2013;  it is learned. Self&#x2013; doubt is the belief that you are not good enough. Instead of saying, &#34;I&#39;ll never be any good at this&#34;, you should ask yourself, &#34;What can I do to become a better at this?&#34; Try not to see failure or other people&#39;s beliefs as barriers.</body>
+			</slide>
+			<slide>
+			<name>What should you replace &#34;I can&#39;t&#34; with in order to grow your confidence?</name>
+			<body>If you have low confidence, it can be difficult to recognize your self&#x2013; doubts. When you find yourself saying, &#34;I can&#39;t&#34;, try replacing it with, &#34;I can&#39;t do that yet, but I am working on it.&#34; This turns a negative statement into a positive one and reminds you that you are developing your skills.</body>
+			</slide>
+			<slide>
+			<name>How should you react to negative feedback?</name>
+			<body>Deciding whose advice you are going to take and whose you will not is an important part of maintaining your belief in yourself and your abilities. Listen to people&#x2013; s opinions and determine whether they have your best interests a heart or not. If their criticism is constructive you can learn from it.</body>
+			</slide>
+			<slide>
+			<name>Why should you ask your friends for positive feedback?</name>
+			<body>This can be easier said than done, especially when you are feeling low and riddled with self&#x2013; doubt. Recalling your wins will remind you that you are capable of great things and will encourage you to get up and try again. Your friends will be delighted to help you by reminding you of your strengths.</body>
+			</slide>
+			<slide>
+			<name>How can self&#x2013; doubt turn you against yourself?</name>
+			<body>There is a phrase, &#34;You are your own worst enemy.&#34; This is self&#x2013; doubt&#39;s greatest achievement &#x2013;  turning you against yourself and your abilities. You are often so much harder on yourself than you are on other people. Combat this by being kind to yourself &#x2013;  trust in your beliefs, abilities and opinions.</body>
+			</slide>
+			<slide>
+			<name>What is the benefit of making a list of things you are thankful for?</name>
+			<body>Make a list of the things you are thankful for. Think about everything, from the people or even animals in your life, to the things you love to do, your favorite things, your health, the music you love and even trips you have made.
+Keep your list updated and read it whenever you are feeling low.</body>
+			</slide>
+	</chapter>
+	<chapter>
+		<name>Confidence at work</name>
+		<desc>People go through different levels of confidence &#x2013;  it&#39;s perfectly natural. But there are techniques to help gain a stronger sense of self and build confidence. In this course, you&#39;ll learn how to remove insecurities that will help you excel at work, social situations and personal relationships.</desc>
+		<count>6</count>
+			<slide>
+			<name>How do you need to be seen at your workplace?</name>
+			<body>The workplace can be filled with conflict and competition. People often make the mistake of &#34;keeping their head down and getting on with it&#34;, hopping to keep their jobs in uncertain economic times. However, you really need to be the shining star, rather than the well&#x2013; behaved figure in the background.</body>
+			</slide>
+			<slide>
+			<name>What What is the key to being confident among your colleagues?</name>
+			<body>Confident people work hard. They know that by putting in the hours they will succeed. By working hard they receive recognition for their work which in turn builds more confidence. The key to being confident among your colleagues is being able to assert your abilities, even in the face of difficulty.
+Tip
+Be open and honest about your progress on whatever you are working on. If you are working on particularly difficult project, use phrases like, &#34;It is challenging,&#34; or &#34;I am working towards a solution,&#34; as opposed to &#34;I am finding it really hard,&#34; or &#34;It is impossible.&#34;</body>
+			</slide>
+			<slide>
+			<name>What shows confidence in a professional setting?</name>
+			<body>During meetings with staff or clients, the way you conduct yourself will portray your level of confidence. Arriving on time, greeting everyone individually and introducing yourself clearly gives the impression that you are in control. Maintaining eye contact shows you are present and interested.</body>
+			</slide>
+			<slide>
+			<name>How should you deal with professional criticism?</name>
+			<body>The ability to see criticism as an opportunity is a skill of a truly confident person. Listen to all the feedback you receive. If you disagree, it is okay to say so, but avoid petty arguing, particularly with your boss. Remember that it is your call whether to take criticism personally.</body>
+			</slide>
+			<slide>
+			<name>How do you make a complaint in a self&#x2013; assured confident manner?</name>
+			<body>You should never feel the need to suffer in silence at the workplace. If you have an issue, send a polite and diplomatic email to the department that handles complaints, and request a meeting. At your meeting, be calm and control your emotions. Highlight your concerns in a fair and objective way.
+Tip
+If your complaint is not followed up within a reasonable time, send a short, professional follow&#x2013; up email. Perhaps say something along the lines of, &#34;I am following up on the outcome of our meeting last week&#34;.</body>
+			</slide>
+			<slide>
+			<name>What is 1 benefit of exercising?</name>
+			<body>Exercise will help you exude confidence at work, sharpen your brain, motivate your day and improve that desk&#x2013; bound posture. Make a commitment to yourself to exercise regularly. You will not only improve your fitness and tone your muscles, but also genuinely feel euphoric.
+Endorphins
+When we exercise, brain chemicals called endorphins are released &#x2013;  these help us feel really great about ourselves.</body>
+			</slide>			
+	</chapter>
+</course>
+<course>
+<name>Time management</name>
+<id>3</id>
+<image>http://api.bibro.ml/academy/images/course_img_time_manage.jpg</image>
+	<count>4</count>
+	<chapter>
+		<name>Time management</name>
+		<desc>Time is one of our most important resources and making the most of it is entirely up to you. Your ability to get the most out of your career, job or personal affairs largely depends on your time management skills. This course will help you to learn about essential time saving skills, common time wasters that may ruin your productivity, and how you can manage your time efficiently at home and work.</desc>
+		<count>5</count>
+			<slide>
+			<name>How will effective time management make you feel?</name>
+			<body>Time management is the practice of using your time efficiently. Discipline and scheduling are tools you can use to help manage time and boost productivity. Scheduling involves organizing tasks in a way that helps you complete them all properly.
+Discipline is training yourself to accomplish tasks on time by minimizing distractions and planning to succeed. To manage your time well, you need to set priorities, establish goals, and manage yourself and your work productively. Effective use of time can make your life much less stressful, and leave you more time to do the things you enjoy.</body>
+			</slide>
+			<slide>
+			<name>What are the benefits of proper time management?</name>
+			<body>There are always points in life when you feel overwhelmed and too busy. Work, family and other obligations compete for your limited time and attention. With discipline and the use of proper time management techniques, your life and work can be more manageable and efficient. Here are some great benefits to managing your time properly&#58;
+&#x2013; More work done means potential to earn more money with the time you have;
+&#x2013; It is easier to tell what your priorities are when you have a system in place;
+&#x2013; More time to sleep well, eat right and exercise regularly.</body>
+			</slide>
+			<slide>
+			<name>What is the biggest time waster?</name>
+			<body>Respecting time is something successful time managers do without even thinking about it. It means knowing your limits in terms of what you can do within a set period of time.
+If you have too many items to complete within a set period of time, your quality may suffer on those projects, and you are not respecting your own time. You respect time by planning for each item appropriately by giving it the time with distractions or procrastination.</body>
+			</slide>
+			<slide>
+			<name>How can we change our attitude towards time?</name>
+			<body>Do you think about your time differently if there is a monetary value associated with it? Use the formula below to calculate&#58;
+1.5xannual salary/working hours per year=cost per hour
+Cost per hour/60=cost per minute
+The value of time
+24 hours in a day x 60 minutes per hour x 60 seconds per minute = 86400 seconds
+Imagine this&#58; Every day your bank deposits 86400 in your account. The only catch is that you have to spend the entire amount by the end of day. You cannot carry forward the amount. What will you do? How would you spend this money? If you think about your time this way perhaps you will become more efficient at managing it and prioritize differently.</body>
+			</slide>
+			<slide>
+			<name>What is the benefit of being flexible?</name>
+			<body>Being flexible is about recognizing that life happens, deadlines change, and your perfectly planned schedule can be thrown off. If you build time into you work day to be flexible, you will give yourself room to plan for any last&#x2013; minute items you need to do.
+Flexibility is not just agreeing to add extra items to your day, but making sure you plan for things to throw off your schedule.</body>
+			</slide>	
+	</chapter>
+	<chapter>
+		<name>Procrastination</name>
+		<desc>Time is one of our most important resources and making the most of it is entirely up to you. Your ability to get the most out of your career, job or personal affairs largely depends on your time management skills. This course will help you to learn about essential time saving skills, common time wasters that may ruin your productivity, and how you can manage your time efficiently at home and work.</desc>
+		<count>5</count>
+			<slide>
+			<name>What are we doing when we avoid a task?</name>
+			<body>There are times when you start avoiding an assignment or postponing it until the last time. This is called procrastination.
+However, sometime you have to put off one assignment and give priority to another because of deadlines and urgency. This is time management, not procrasctination.</body>
+			</slide>
+			<slide>
+			<name>What can procrastination indicate besides time wasted?</name>
+			<body>To put off a task to the last minute, do tasks that are not important, or to do everything other than what you should be really doing is procrastination.
+Procrastinating can cause stress of guilt, and loss of productivity as well as social disapproval for not meeting commitments. These feelings may can become a problem for your career and personal life.
+Why procrastinate?
+It is important to analyze why and when you are procrastinating. Once you know this, you will be able to manage it better.</body>
+			</slide>
+			<slide>
+			<name>What does not responding to emails indicate?</name>
+			<body>If you are unsure as to whether you are procrastinating or not, see if some of the items on this list apply to you.
+Do you?
+&#x2013; Make a lot list with less important tasks right at the top?
+&#x2013; Wait for the right mood to start working on an important assignment?
+&#x2013; Wait until the last minute because you think you work better when you under pressure?
+&#x2013; Postpone working due to lack of energy?
+&#x2013; Make a task list just to &#34;act or look&#34; busy?
+&#x2013; Leave your desk for unnecessary reasons when you are working on an urgent and important assignment?
+&#x2013; Go through emails without replying thinking you will get to them later?</body>
+			</slide>
+			<slide>
+			<name>When are you more likely to procrastinate?</name>
+			<body>There could be different reasons for your procrastination. See which category you fit into&#58;
+&#x2013; You are always looking for perfection and waiting for everything to be perfect. Then you will start;
+&#x2013; You are indecisive because you feel you lack information and resources.</body>
+			</slide>
+			<slide>
+			<name>What can be done to overcome procrastination?</name>
+			<body>Procrastination can become a habit if appropriate steps are not taken to curb it. Here are some things you can do to deal with it&#58;
+Solving your procrastination problem &#x2013; remind yourself that you are being paid for your work. Think of the consequences. Analyze what will happen if you don&#39;t complete a given assignment. What impact will it have on you or others?
+To do&#58;
+&#x2013; Ask for feedback on your work;
+&#x2013; Clean your work space. An organized workplace can help reduce feelings of distraction;
+&#x2013; Ask for assistance and input from your co&#x2013; workers for things that you think will take longer;
+&#x2013; Create a proper documentation system. Do not waste time on searching files;
+&#x2013; Understand that no one in the world is perfect and that goof&#x2013; ups will happen. Take the task as an opportunity and challenge to learn new things.</body>
+			</slide>		
+	</chapter>
+	<chapter>
+		<name>Techniques</name>
+		<desc>Time is one of our most important resources and making the most of it is entirely up to you. Your ability to get the most out of your career, job or personal affairs largely depends on your time management skills. This course will help you to learn about essential time saving skills, common time wasters that may ruin your productivity, and how you can manage your time efficiently at home and work.</desc>
+		<count>6</count>
+			<slide>
+			<name>What is the most important step to manage your time well?</name>
+			<body>Do you know how you are currently spending your time? The first step to managing your time well is to better understand how you are spending it now. Make a list of your activities from the time you wake up until the time you go to sleep at night that includes what tasks you do and how much time it takes you to complete them.
+This list will tell you how constructively you are spending day and where you might be wasting time. You should be viewing your time as currency and your list as a diary of how you are spending that currency. Next, you will make changes based on how well or poorly you spend your time according to your list.</body>
+			</slide>
+			<slide>
+			<name>How does setting goals help with time management?</name>
+			<body>Goals should be written in a simple and clear manner. For example, you want to finish your office assignment by a specific date and time.
+Plan the hours it will take to complete the assignment and account for that in the days leading up to the deadline. You may need to put in extra hours to meet your deadline.</body>
+			</slide>
+			<slide>
+			<name>What are 2 things a goal should be?</name>
+			<body>Goals should be measurable and tangible. For example, you want to finish your assignment within 5 hours. Your goal is measurable since you have put a clear time value on it.
+Goals should be achievable. They should be well&#x2013; defined and stretch your capabilities so you feel challenged. They should be able to motivate you to accomplish a task. For example, the assignment needs to be completed and submitted within 5 hours. In this case, you should already have the skill set you need to finish the task and it should be challenging enough to keep you motivated.</body>
+			</slide>
+			<slide>
+			<name>How should you plan your time management?</name>
+			<body>Ways to plan effectively&#58;
+&#x2013; Make a to&#x2013;do list at the start of your day;
+&#x2013; Write down the important tasks you need to accomplish by the end of the day. Don&#39;t forget to include the time required for each task. Tasks which are priority should be on the top of the list;
+&#x2013; Complete each task one by one and mark the ones that are finished. Don&#39;t start a new task until you your pending tasks;
+&#x2013; Try and finish a task within a defined time frame;
+&#x2013; Always be goal&#x2013; oriented.</body>
+			</slide>
+			<slide>
+			<name>What makes a goal meaningful?</name>
+			<body>Just like setting goals is important, setting deadlines for your work is also crucial. If you have set a goal without a deadline, then the goal can become meaningless.
+For example, you may have a long&#x2013; term goal of starting a business in the next two years. That can feel like a long time, but if you break down the various steps of what you need to do during that period you will be that much closer to achieving your goal. Short&#x2013; term goals that lead up to your long&#x2013; term goal may be researching competition, writing a business plan, coming up with a business name, and looking at financial options.</body>
+			</slide>
+			<slide>
+			<name>We are the 4 D&#39;s?</name>
+			<body>The 4 D&#39;s&#58;
+&#x2013; Complete your &#34;must&#x2013; do&#34; tasks;
+&#x2013; Delegate tasks to others which you cannot complete on time or with a high degree of quality;
+&#x2013; Delay tasks you cannot do or delegate. Do not delay them too long;
+&#x2013; As a very last resort, admit that you cannot complete a task and remove it from your list entirely.</body>
+			</slide>			
+	</chapter>
+	<chapter>
+		<name>A good system</name>
+		<desc>Time is one of our most important resources and making the most of it is entirely up to you. Your ability to get the most out of your career, job or personal affairs largely depends on your time management skills. This course will help you to learn about essential time saving skills, common time wasters that may ruin your productivity, and how you can manage your time efficiently at home and work.</desc>
+		<count>8</count>
+			<slide>
+			<name>What is the 80&#x2044;20 rule also known as?</name>
+			<body>The 80&#x2044;20 rule is also known as the Pareto rule. It is a common ratio used to determine performance. According to the rule, 80% of your profits come from 20% of time you spend. No one can be 100% productive at all times. You will have very productive hours during the day, and times when you are not productive at all.
+Applying the 80&#x2044;20 rule&#58; identify what your most productive time of day is and schedule your work accordingly. Stop when the work is &#34;good enough&#34; or at 80%.</body>
+			</slide>
+			<slide>
+			<name>What is the &#34;blocking time&#34;?</name>
+			<body>After you write down your priorities place them into time slots in your calendar. This is called &#34;time blocking.&#34; Use discipline when making this list, and practice it often. You need to diligently practice time blocking in order to master it.</body>
+			</slide>
+			<slide>
+			<name>How should you divide your daily calendar?</name>
+			<body>The first step to blocking time is to divide your daily calendar into 15&#x2013; 30 minute intervals. Tackling small intervals helps you to increase your productivity and manage larger tasks. Divide your day between personal time and work time.</body>
+			</slide>
+			<slide>
+			<name>How can you divide personal activities?</name>
+			<body>Make sure to block time off for personal activities. It is important to value your personal time along with your work time. The best way to do it is to actually schedule it.</body>
+			</slide>
+			<slide>
+			<name>Why is a weekly evaluation important?</name>
+			<body>Whether your goals are short&#x2013; term or long&#x2013; term, they need to be constantly checked against your progress. Weekly evaluation will tell you if you are on the right track, need to make some alterations, or completely change your initial plan.
+At the end of the week, take a look at the progress you have made so you can start the following week with a clear idea of what needs to be done. Don&#39;t forget to build time for this evaluation into your schedule.</body>
+			</slide>
+			<slide>
+			<name>What does RescueTime do?</name>
+			<body> RescueTime is a popular web&#x2013; based time management application. It gives you a detailed breakdown of how much time you have spent on your computer every day. You do not have to enter any data to use it.
+It updates itself automatically and runs in the background. At the end of the day, you can easily analyze how much time you have spent on which projects and identify the areas where you need improvement.</body>
+			</slide>	
+			<slide>
+			<name>What is Toggl?</name>
+			<body>Toggl is a very basic tool to keep track of how much time you are spending on one project. It is a project management tool that allows you to analyze and track the progress of multiple ongoing projects.</body>
+			</slide>	
+			<slide>
+			<name>What is 30 Boxes?</name>
+			<body>30 Boxes is an online calendar application. You can download it to your mobile phone or tablet. 30 Boxes lets you make your to&#x2013; do list and fill it in according to your priorities. You can add important events and the application will send a reminder alert when they are coming up. You can also share your calendar with your friends through popular social networking sites.</body>
+			</slide>			
+	</chapter>
+</course>
+</courses>

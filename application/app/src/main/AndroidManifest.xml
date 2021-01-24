@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="nms.az.onlineacademy">
+
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="nms.az.onlineacademy.OnlineAcademyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="nms.az.onlineacademy.activities.LoginActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="nms.az.onlineacademy.activities.CourseListActivity"
+            android:label="@string/courses_on_sale"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="nms.az.onlineacademy.activities.MainActivity"
+            android:label="@string/featured"
+            android:theme="@style/AppTheme" />
+
+        <activity
+            android:name="nms.az.onlineacademy.activities.CourseLearnActivity"
+            android:label="@string/featured"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="nms.az.onlineacademy.activities.CourseDetailActivity"
+            android:label="@string/featured"
+            android:theme="@style/AppTheme" />
+    </application>
+</manifest>
